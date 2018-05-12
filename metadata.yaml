@@ -1,0 +1,38 @@
+_repo: The-Path-of-Duty-and-Other-Stories_18181
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caswell, Harriet S.
+    aliases:
+    - Caswell, H. S. (Harriet S.)
+    - Caswell, Lemuel E., Mrs.
+    birthdate: 1834
+    gutenberg_agent_id: '6297'
+    url: http://www.gutenberg.org/2009/agents/6297
+description: ''
+gutenberg_issued: '2006-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Family -- Fiction'
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Country life -- Fiction'
+tableOfContents: Clara Roscom, or The path of duty -- Terry Dolan -- The faithful
+  wife -- Emma Ashton -- Thoughts on Autumn -- Wandering Davy -- Looking on the dark
+  side -- Edward Barton -- The weary at rest -- The rainy afternoon -- The student's
+  dream -- Uncle Ephraim -- Story of a log cabin -- Hazel-Brook farm -- Old Rufus
+  -- The diamond ring -- The unfortunate man -- The old schoolhouse -- Arthur Sinclair
+  -- The snow storm -- The new year -- Earnest Harwood, or The adopted son.
+title: The Path of Duty, and Other Stories
+url: http://www.gutenberg.org/ebooks/18181
